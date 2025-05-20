@@ -9,7 +9,7 @@ A classic Simon Says game built with JavaScript, HTML, and CSS. Test your memory
 - Progressive difficulty - sequences get longer as you advance
 - Score tracking with high score persistence
 - Visual and interactive feedback
-- Responsive design (works on desktop and mobile)
+- Desktop Only Design (keyboard and mouse support, no touch support)
 - Simple, clean interface
 
 ## How to Play
